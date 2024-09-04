@@ -1,0 +1,10 @@
+.Button{
+    background-color: slateblue;
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    transition: opacity 0.2s ;
+}
+.Button:hover{
+    opacity: 0.7;
+}
